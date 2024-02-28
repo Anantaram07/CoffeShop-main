@@ -16,5 +16,5 @@ This Django project, CoffeeShop, provides a platform for users to explore and or
 
 1. **Clone the repository:**
 
-   ```bash
   
+  https://anantaram07.github.io/CoffeShop-main/
